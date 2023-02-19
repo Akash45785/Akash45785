@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **23akash45785@gmail.com**
 
-- 📄 Currently Pursuing B.Tech [From MNNIT CSE department](From MNNIT CSE department)
+- 📄 Currently Pursuing B.Tech From MNNIT CSE department
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
