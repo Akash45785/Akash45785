@@ -2,6 +2,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 
+<h4>
+  Hello 
+Thank you for taking your time for visiting my profile 
+I am programmer and developer 
+  </h4>
+
 
 
 - 🔭 I’m currently working on **API**
