@@ -24,10 +24,10 @@ I am programmer and developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/23akashkumar45785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="23akashkumar45785" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/23akash45785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thunderrr" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/23akash45785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="23akash45785" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/thunderrr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thunderrr17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/23akashkumar45785" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="23akashkumar45785" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/23akash45785" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="23akash45785" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/23akash45785" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="23akash45785" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/thunderrr17" target="blank"><img align="center" src="https://codeforces.org/s/87279/images/codeforces-sponsored-by-ton.png" alt="thunderrr17" height="30" width="40" /></a>
  
 </p>
 
